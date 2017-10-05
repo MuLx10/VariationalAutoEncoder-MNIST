@@ -1,1 +1,2 @@
 # VariationalAutoEncoder-MNIST
+# VariationalAutoEncoder-MNIST
